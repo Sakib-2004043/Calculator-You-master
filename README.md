@@ -19,13 +19,9 @@ Add screenshots of your app here to showcase its UI and features.
 ---
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Open the project in **Android Studio**.
-3. Connect your Android device or emulator.
-4. Build and run the project.
+1. Open the project in **Android Studio**.
+2. Connect your Android device or emulator.
+3. Build and run the project.
 
 ---
 
